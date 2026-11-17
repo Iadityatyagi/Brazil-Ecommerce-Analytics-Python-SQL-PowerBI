@@ -109,7 +109,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 01. Project Overview
 
-![Project Overview](Power_BI/Screenshots/01_Project_Overview.png)
+![Project Overview](powerbi_dashboard/screenshot/01%20-%20Project%20Overview.png)
 
 **Objective:** Introduce the business problem, dataset, analytical approach, tools, and project methodology.
 
@@ -122,7 +122,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 02. Executive Overview
 
-![Executive Overview](Power_BI/Screenshots/02_Executive_Overview.png)
+![Executive Overview](powerbi_dashboard/screenshot/02%20-%20Executive%20Overview.png)
 
 **Objective:** Provide an overall picture of e-commerce business performance.
 
@@ -137,7 +137,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 03. Customer Analytics
 
-![Customer Analytics](Power_BI/Screenshots/03_Customer_Analytics.png)
+![Customer Analytics](powerbi_dashboard/screenshot/03%20Customer%20Analytics.png)
 
 **Objective:** Understand customer purchasing behavior and acquisition patterns.
 
@@ -150,7 +150,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 04. Customer Value & RFM Analysis
 
-![Customer Value and RFM](Power_BI/Screenshots/04_Customer_Value_RFM.png)
+![Customer Value & RFM](powerbi_dashboard/screenshot/04%20Customer%20Value%20%26%20RFM.png)
 
 **Objective:** Identify valuable customers and understand customer segments.
 
@@ -164,7 +164,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 05. Product & Sales Analytics
 
-![Product and Sales Analytics](Power_BI/Screenshots/05_Product_Sales.png)
+![Product & Sales Analytics](powerbi_dashboard/screenshot/05%20-%20Product%20%26%20Sales%20Analytics.png)
 
 **Objective:** Evaluate product performance, category revenue, and seller contribution.
 
@@ -183,7 +183,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 06. Payment & Delivery Analytics
 
-![Payment and Delivery Analytics](Power_BI/Screenshots/06_Payment_Delivery.png)
+![Payment & Delivery Analytics](powerbi_dashboard/screenshot/06%20-%20Payment%20%26%20Delivery%20Analytics.png)
 
 **Objective:** Understand payment behavior and evaluate delivery efficiency.
 
@@ -196,7 +196,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 07. Customer Satisfaction
 
-![Customer Satisfaction](Power_BI/Screenshots/07_Customer_Satisfaction.png)
+![Customer Satisfaction](powerbi_dashboard/screenshot/07%20-%20Customer%20Satisfaction.png)
 
 **Objective:** Evaluate customer experience through review ratings.
 
