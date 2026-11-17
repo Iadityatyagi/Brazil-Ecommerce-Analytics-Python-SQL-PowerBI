@@ -240,8 +240,8 @@ Each screenshot is embedded in the corresponding dashboard section above so visi
 
 | Resource | Link |
 |---|---|
-| GitHub Repository | [View Project Repository](YOUR_GITHUB_REPOSITORY_LINK) |
-| Power BI Interactive Dashboard | [Explore Power BI Report](YOUR_POWER_BI_REPORT_LINK) |
+| GitHub Repository | [View Project Repository](https://github.com/Iadityatyagi/Brazil-Ecommerce-Analytics-Python-SQL-PowerBI/tree/my-new-branch) |
+| Power BI Interactive Dashboard | [Explore Power BI Report](https://app.powerbi.com/links/HyuwQNSz39?ctid=fa19b9df-6609-4051-89e2-8018d6fb81b4&pbi_source=linkShare) |
 | Dataset | [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |
 
 **Power BI Report:** Replace the placeholder with your published Power BI report URL. If you have not published it yet, upload your `.pbix` file to the `Power_BI` folder.
