@@ -1,8 +1,6 @@
 # 🇧🇷 Brazilian E-Commerce Analytics | Olist
 ### End-to-End Data Analytics Project | Python • PostgreSQL • Excel • Power BI
 
-![Project Banner](Power_BI/Screenshots/01 - Project Overview.png)
-
 ## 📌 Project Overview
 
 This project is an end-to-end analysis of the **Olist Brazilian E-Commerce Public Dataset**, containing approximately 100,000 orders from 2016 to 2018.
@@ -122,7 +120,7 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 02. Executive Overview
 
-![Executive Overview](powerbi_dashboard/screenshot/02%20-%20Executive%20Overview.png)
+![Executive Overview](powerbi_dashboard/screenshot/02%20-%20Executive%20Overview..png)
 
 **Objective:** Provide an overall picture of e-commerce business performance.
 
