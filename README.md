@@ -135,7 +135,6 @@ The final dashboard contains seven pages, each designed to answer a different bu
 
 ### 03. Customer Analytics
 
-![Customer Analytics](powerbi_dashboard/screenshot/03%20Customer%20Analytics.png)
 
 **Objective:** Understand customer purchasing behavior and acquisition patterns.
 
